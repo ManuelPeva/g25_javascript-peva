@@ -1,0 +1,126 @@
+.demo-layout-transparent {
+  background: url('https://arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/NVWQSYGX3RC7ZBEHLPLDVXA3PU.jpg') center / cover;
+  
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+       your background is light. */
+  color: rgb(0, 0, 0);
+  height: 32%;
+
+}
+
+.mdl-navigation {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.mdl-navigation__link {
+  color: black;
+
+  font-size: 32px;
+}
+
+.mdl-layout-title {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+
+
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+.log {
+  border-radius: 360px;
+  height: 42px;
+  margin-right: 32px;
+  cursor: pointer;
+}
+
+
+.parrafo{
+  text-align: justify;
+  /*padding-right: 62%;*/
+  margin-top: 15%;
+  margin-right: 82%;
+  margin-left: -40%;
+  font-size: 16px;
+  font-family:'Roboto', 'Helvetica Neue', Arial;
+  font-weight: 500;
+}
+
+.foto{
+  width: 392px;
+  height: 392px;
+  margin-left: 42%;
+  margin-top: -29%;
+}
+
+h1{
+  font-weight: 600;
+}
+
+.mover{
+  margin-top: 22px;
+  padding-bottom: 20%;
+}
+
+
+
+
+.demo-card-wide.mdl-card {
+  width: 712px; 
+  margin-top: 13%;
+  margin-left: -39%;
+}
+
+.demo-card-wide>.mdl-card__title {
+  color: #fff;
+  height: 282px;
+  background: url('https://images.ecestaticos.com/w0-39dF5m8K2P6y6eJyDD8RSmCM=/126x0:2143x1511/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff89%2F731%2Ffc1%2Ff89731fc14e1cd5c720c132763bfaba5.jpg') center / cover;
+}
+
+.demo-card-wide>.mdl-card__menu {
+  color: #fff;
+}
+
+
+.mdl-layout__content {
+  margin-top: 21rem;
+  z-index: auto;
+}
+
+.mover{
+  margin-left: 35%;
+  padding-top: 43%;
+}
+
+
+.mdl-button{
+  color: black;
+}
+
+
+.formulario{
+  margin-left: 48%;
+  margin-top: -36%;
+}
+
+.pie{
+  width: 39px;
+  height: 39px;
+  border-radius: 360px;
+  cursor: pointer;
+}
+
+
+
+.white-icon{
+  color: white;
+}
